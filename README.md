@@ -32,10 +32,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ceddev&show_icons=true&locale=en&layout=compact" alt="7ceddev" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7ceddev&show_icons=true&locale=en" alt="7ceddev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ceddev&" alt="7ceddev" /></p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7ceddev" alt="7ceddev" /></a> </p>
 
