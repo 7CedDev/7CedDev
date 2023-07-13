@@ -7,7 +7,7 @@
 
 
 
-- 🔭 Working on **My Portfolio**
+- 🔭 Working on **My Portfolio...**
 
 - 🚀 Build my skills up to next level
 
